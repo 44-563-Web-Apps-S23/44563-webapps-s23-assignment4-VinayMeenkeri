@@ -1,0 +1,30 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    size: 20;
+    color: black;
+}
+
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    size: 22;
+    color: black;
+    background-color: aqua;
+}
+
+.direction:hover{
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+.JACQUES{
+    color: cadetblue;
+}
+
+.HENRIETTE{
+    color: chartreuse;
+}
+
+.ALBERT{
+    color: cornflowerblue;
+}
+
