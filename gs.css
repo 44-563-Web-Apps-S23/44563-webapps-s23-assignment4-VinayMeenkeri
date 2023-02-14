@@ -28,3 +28,16 @@
     color: cornflowerblue;
 }
 
+table, th, td{
+    border: 1px solid; text-align: center;
+}
+
+table{
+    padding: .5px;
+    color: blue;
+}
+
+tr:nth-child(even) {
+    background-color :burlywood
+  }
+
