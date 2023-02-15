@@ -59,6 +59,6 @@ tr:nth-child(even) {
   .JACQUES:hover{
     background: cadetblue;
     color: rgb(100, 100, 211);
-    text-shadow: 4px 4px ;
+    text-shadow: 4px 4px #9c9c9c ;
   }
 
