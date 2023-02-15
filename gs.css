@@ -75,33 +75,35 @@ tr:nth-child(even) {
     color: rgb(210, 71, 56);
     text-shadow: 4px 4px #46e574;
   }
+/* This style is for Menu bar*/
 
-  ul.navbar-horizontal{
+  .navbar-horizontal{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ed2d2d;
+  padding-bottom: 10px;
+  }
+  
+  li a {
     display: block;
-    padding: 10px;
-    color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 9px 10px;
+    text-decoration: none;
   }
-
-  ul.navbar-horizontal{
-    list-style-type:none;
-    margin: 5px;
-    padding: 10px;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
   }
-
-  ul.navbar.horizontal li{
+  
+  li {
     float: left;
-    background-color: indianred;
   }
-
-  ul.navbar.horizontal a{
-    display: block;
-    padding: 5px;
-  }
-
-  ul.navbar-horizontal a:hover{
-    color: lightcyan;
-  }
-
   .image{
     width: 35%;
   }
