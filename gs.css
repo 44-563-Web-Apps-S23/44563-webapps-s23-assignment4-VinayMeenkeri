@@ -76,3 +76,35 @@ tr:nth-child(even) {
     text-shadow: 4px 4px #46e574;
   }
 
+  ul.navbar-horizontal{
+    display: block;
+    padding: 10px;
+    color: darkslategray;
+  }
+
+  ul.navbar-horizontal{
+    list-style-type:none;
+    margin: 5px;
+    padding: 10px;
+  }
+
+  ul.navbar.horizontal li{
+    float: left;
+    background-color: indianred;
+  }
+
+  ul.navbar.horizontal a{
+    display: block;
+    padding: 5px;
+  }
+
+  ul.navbar-horizontal a:hover{
+    color: lightcyan;
+  }
+
+  .image{
+    width: 35%;
+  }
+
+
+
