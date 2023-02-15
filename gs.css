@@ -60,5 +60,19 @@ tr:nth-child(even) {
     background: cadetblue;
     color: rgb(100, 100, 211);
     text-shadow: 4px 4px #9c9c9c ;
+    border: cornsilk;
+  }
+
+  .HENRIETTE:hover{
+    background: bisque;
+    color: rgb(200, 70, 76);
+    text-shadow: 4px 4px #5d2121;
+    border: crimson;
+  }
+
+  .ALBERT:hover{
+    background: darkgrey;
+    color: rgb(210, 71, 56);
+    text-shadow: 4px 4px #46e574;
   }
 
