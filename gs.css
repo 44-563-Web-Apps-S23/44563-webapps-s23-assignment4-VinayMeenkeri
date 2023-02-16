@@ -11,6 +11,11 @@
     background-color: aqua;
 }
 
+.name{
+  text-shadow: maroon;
+  border: 2%;
+}
+
 .direction:hover{
     background-color: blanchedalmond;
     color: blue;
